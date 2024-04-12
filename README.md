@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamamd Ali</h1>
-<h3 align="center">UI/UX & Frontend Developer</h3>
+<h3 align="center">UI/UX & Frontend Developer || Python Expert </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliuiux&label=Profile%20views&color=0e75b6&style=flat" alt="aliuiux" /> </p>
 
