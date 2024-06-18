@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhamamd Ali</h1>
 <h3 align="center">UI/UX & Frontend Developer || Python Expert </h3>
 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliuiux&label=Profile%20views&color=0e75b6&style=flat" alt="aliuiux" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliuiux" alt="aliuiux" /></a> </p>
