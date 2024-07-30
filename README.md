@@ -2,7 +2,7 @@
 <h3 align="center">UI/UX & Frontend Developer || Python Expert </h3>
 
 <div align="center">
-  <img  src="https://www.flaticon.com/free-animated-icon/snake_12893118?term=snake&page=1&position=4&origin=search&related_id=12893118"
+  <img  src="https://raw.githubusercontent.com/jahanzaibtayyab/jahanzaibtayyab/output/snake.svg"
        alt="snake" /></a>
 </div>
 
