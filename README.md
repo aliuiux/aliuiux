@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:f97316&height=200&section=header&text=Muhammad%20Ali&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliuiux&theme=react-dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=aliuiux&theme=radical&no-frame=true&margin-w=10" />
 <h1 align="center">
   👋 Hi, I'm Muhammad Ali
 </h1>
